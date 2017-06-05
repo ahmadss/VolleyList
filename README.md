@@ -4,9 +4,10 @@ Cara Install :
 2. cocokan database di di folder aplikasi->config->database.sql
 3. Unzip dan Import Source Code Android
 4. Selesai
+
 ![](https://github.com/ahmadss/VolleyList/blob/master/nama-crop.gif)
 
 
-                              #Tunggu Upload Video Tutorialnya Dari Saya#
+                              #Tunggu Upload Video Tutorialnya#
                                        ###TERIMKASIH###
 
