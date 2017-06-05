@@ -7,6 +7,6 @@ Cara Install :
 ![](https://github.com/ahmadss/VolleyList/blob/master/nama-crop.gif)
 
 
-
-###TERIMKASIH###
+Tunggu Upload Video Tutorialnya
+                                       ###TERIMKASIH###
 
